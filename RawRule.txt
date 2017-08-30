@@ -9,8 +9,10 @@ dns-server =
 
 [Rule]
 DOMAIN-SUFFIX,2dbook.com,Proxy
-DOMAIN-SUFFIX,4tern.com,Proxy
 DOMAIN-KEYWORD,google,Proxy
+DOMAIN-KEYWORD,163,Proxy
+DOMAIN-KEYWORD,126,Proxy
+
 
 DOMAIN-SUFFIX,telegram.org,Proxy
 DOMAIN-SUFFIX,telegram.me,Proxy
